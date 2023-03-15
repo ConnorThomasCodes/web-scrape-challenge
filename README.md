@@ -1,6 +1,6 @@
 # web-scrape-challenge
 
-In this repository we use a chrome driver to access various webpages (<https://static.bc-edx.com/data/web/mars_news/index.html> and <https://static.bc-edx.com/data/web/mars_facts/temperature.html> and then a BeautifulSoup html parser to read and analyze some of the information we receive from each of the sites.
+In this repository we use a chrome driver to access various webpages (<https://static.bc-edx.com/data/web/mars_news/index.html> and <https://static.bc-edx.com/data/web/mars_facts/temperature.html>) and then a BeautifulSoup html parser to read and analyze some of the information we receive from each of the sites.
 
 In the part_1 notebook, we go through the posted news articles and grab each title and article preview to add to a list.
 
